@@ -14,10 +14,10 @@ Suggested structure is as follows:
  e. Facilitate communication of living reviews and ongoing review projects ('glass box' approach)  
 3. Description of the potential benefits of web-based reporting of systematic reviews
 4. Practical advice and recommended future steps needed to support web-based SRs  
- a. What tools can support webSRs?
- b. Where should they be published?
- c. Should they be published instead of traditional articles?
- d. Are there any disadvantages/risks?
- e. What is the cost?
+ a. What tools can support webSRs?  
+ b. Where should they be published?  
+ c. Should they be published instead of traditional articles?  
+ d. Are there any disadvantages/risks?  
+ e. What is the cost?  
 
 Contributions are welcomed as comments on issues. Additional issues will be curated at the discretion of the lead author (Neal Haddaway). If you would like to contribute as a co-author, please contact Neal (<a href="mailto:neal.haddadway@sei.org">neal.haddadway@sei.org</a>). The article is planned as a submission to the <a href="https://estechseries.github.io/" target="_blank"> ESTech special series</a> jointly published by Environmental Evidence and Campbell Systematic Reviews.
